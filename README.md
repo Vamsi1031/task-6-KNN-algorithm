@@ -21,7 +21,7 @@ To understand and apply KNN for multi-class classification and visualize perform
 6. Visualized the confusion matrix.
 
 # Accuracy Achieved
-> Accuracy: ~97%
+> Accuracy: ~100%
 
 # Files Included
 - `task6 knn.ipynb` – KNN implementation code.
